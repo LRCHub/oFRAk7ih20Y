@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PARTY",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-09T10:54:38.544671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Party",
+      "artist": "Bad Bunny feat. Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/01_Party_Bad_Bunny_feat._Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Party Mode",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/02_Party_Mode_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 1 (The Chairman's Portrait)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Satanic_Slumber_Party_Part_1_(The_Chairman's_Portrait)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 2 (Midnight In Sodom)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Satanic_Slumber_Party_Part_2_(Midnight_In_Sodom)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 3 (Hoof And Horn)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Satanic_Slumber_Party_Part_3_(Hoof_And_Horn)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crash My Party",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/06_Crash_My_Party_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feels Like a Party",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/07_Feels_Like_a_Party_Locash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here for the Party",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/08_Here_for_the_Party_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here for the Party",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/09_Here_for_the_Party_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "House Party",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/10_House_Party_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Kinda Party",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/11_My_Kinda_Party_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Parking Lot Party",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/12_Parking_Lot_Party_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Party Crowd",
+      "artist": "David Lee Murphy",
+      "has_synced": false,
+      "path": "select/13_Party_Crowd_David_Lee_Murphy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Party Crowd (Album Version)",
+      "artist": "David Lee Murphy",
+      "has_synced": true,
+      "path": "select/14_Party_Crowd_(Album_Version)_David_Lee_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Party for Two (Country Version With Intro)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/15_Party_for_Two_(Country_Version_With_Intro)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Brought the Party",
+      "artist": "Christie Lamb feat. Drew Baldridge",
+      "has_synced": false,
+      "path": "select/16_You_Brought_the_Party_Christie_Lamb_feat._Drew_Baldridge.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Brought the Party",
+      "artist": "Christie Lamb",
+      "has_synced": false,
+      "path": "select/17_You_Brought_the_Party_Christie_Lamb.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "When the Party Is Over, I Miss My Dear Porn Star",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/18_When_the_Party_Is_Over,_I_Miss_My_Dear_Porn_Star_My_Little_Airport.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PARTY",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_PARTY_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
